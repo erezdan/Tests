@@ -3,7 +3,7 @@ import { mockFlights } from '../data/mockFlights';
 import FlightRow from './FlightRow';
 import './FlightBoard.css';
 
-// test 1
+// test 2
 
 const FlightBoard: React.FC = () => {
   return (
